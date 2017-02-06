@@ -2,13 +2,11 @@
 
 *Instructions:  These tests are to express the variety of tasks you would perform in this job.  Please choose 4 of the 5 assignments.*
 
-### Exercise 1
-
+## Exercise 1
 Pick any scientific paper.  Write a short paragraph (8-10 sentences) in your own words describing the key experiments and conclusions from that publication.  Include a PDF of the paper you chose when you submit your exercises.
 
 
-### Exercise 2
-
+## Exercise 2
 Read the following publication and its associated references.
 
 Primary publication:
@@ -32,13 +30,11 @@ Answer these questions in 1-2 pages:
 * Where do you see issues and connections between these data and information already in SGD or other biological data?
 
 
-### Exercise 3
-
+## Exercise 3
 Read the directions in the 'pileup-script-drections' document.  The 'BL6_x_Cast_RNA.pileup' contains the data to be analyzed.  Please provide your script and the results file.
 
 
-### Exercise 4
-
+## Exercise 4
 The ENCODE Portal is based on a REST API.  This means that the information that the web page uses to create webpages is the same information you would get as programmatically querying the ENCODE database.  Any URL that is generated when you click on the Portal can be programmatically queried to get the information back in a parsable format.  An introduction to the ENCODE Portal and the REST API are described in these help documents:
 
 * Getting Started: https://www.encodeproject.org/help/getting-started
@@ -51,8 +47,7 @@ For this exercise, write a script that queries the ENCODE database and gives a t
 Please submit your script and results file.
 
 
-### Exercise 5
-
+## Exercise 5
 Find data errors.
 
 Some background:
