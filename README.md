@@ -1,14 +1,13 @@
-# Answers to the ENCODE Data Wrangler test.
-
+# ENCODE Data Wrangler test.
 
 *Instructions:  These tests are to express the variety of tasks you would perform in this job.  Please choose 4 of the 5 assignments.*
 
-#### Exercise 1
+### Exercise 1
 
 Pick any scientific paper.  Write a short paragraph (8-10 sentences) in your own words describing the key experiments and conclusions from that publication.  Include a PDF of the paper you chose when you submit your exercises.
 
 
-#### Exercise 2
+### Exercise 2
 
 Read the following publication and its associated references.
 
@@ -33,12 +32,12 @@ Answer these questions in 1-2 pages:
 * Where do you see issues and connections between these data and information already in SGD or other biological data?
 
 
-#### Exercise 3
+### Exercise 3
 
 Read the directions in the 'pileup-script-drections' document.  The 'BL6_x_Cast_RNA.pileup' contains the data to be analyzed.  Please provide your script and the results file.
 
 
-#### Exercise 4
+### Exercise 4
 
 The ENCODE Portal is based on a REST API.  This means that the information that the web page uses to create webpages is the same information you would get as programmatically querying the ENCODE database.  Any URL that is generated when you click on the Portal can be programmatically queried to get the information back in a parsable format. An introduction to the ENCODE Portal and the REST API are described in these help documents:
 
@@ -52,9 +51,9 @@ For this exercise, write a script that queries the ENCODE database gives a tab-d
 Please submit your script and results file.
 
 
-#### Exercise 5
+### Exercise 5
 
-Find data errors
+Find data errors.
 
 Some background:
 
@@ -68,15 +67,17 @@ You've downloaded a file called "SGDFeaturesChrXI.xlsx" that contains ORFs from 
 
 You should expect to find the following types of information in the columns:
 
-1. Row number: use this when you refer to the rows with errors (mandatory)
-2. Primary SGDID: a unique identifier for the sequence feature (mandatory)
-3. Feature type: a phrase that describes the sequence feature   (mandatory)
-4. Feature name: a name that describes the approximate location of the sequence feature (optional)
-5. Gene name: a human-friendly name, following the pattern of 3 letters and a number (optional)
-6. Secondary SGDID: alternate identifiers for the sequence feature  (optional, multiples separated by |)
-7. Chromosome: the chromosome that the sequence feature is located on (optional)
-8. Start coordinate: the coordinate number on the chromosome that contains the beginning of the start codon (mandatory)
-9. Stop coordinate: the coordinate number on the chromosome that  contains the end of the stop codon  (mandatory)
-10. Strand: whether the ORF is on the Watson or Crick strand (mandatory)
-11. Sequence version date: date when the genomic sequence was last modified (optional)
-12. Description: A short summary of the biological role of the ORF (optional)
+| No. | Column name | Description | Required |
+| ---- | ---- | ---- | ---- |
+| **1** | Row number | Use this when you refer to the rows with errors | mandatory |
+| **2** | Primary SGDID | Unique identifier for the sequence feature | mandatory |
+| **3** | Feature type | Phrase that describes the sequence feature | mandatory |
+| **4** | Feature name | Name that describes the approximate location of the sequence feature | optional |
+| **5** | Gene name | Human-friendly name, following the pattern of 3 letters and a number | optional |
+| **6** | Secondary SGDID | Alternate identifiers for the sequence feature | optional |
+| **7** | Chromosome | Chromosome that the sequence feature is located on | optional | 
+| **8** | Start coordinate | Coordinate number on the chromosome that contains the beginning of the start codon | mandatory |
+| **9** | Stop coordinate | Coordinate number on the chromosome that contains the end of the stop codon | mandatory |
+| **10** | Strand | Whether the ORF is on the Watson or Crick strand | mandatory |
+| **11** | Sequence version date | Date when the genomic sequence was last modified | optional |
+| **12** | Description | Short summary of the biological role of the ORF | optional |
