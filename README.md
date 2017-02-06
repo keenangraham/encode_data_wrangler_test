@@ -1,4 +1,4 @@
-# ENCODE Data Wrangler test.
+# Questions for the ENCODE Data Wrangler Test.
 
 *Instructions:  These tests are to express the variety of tasks you would perform in this job.  Please choose 4 of the 5 assignments.*
 
@@ -39,14 +39,14 @@ Read the directions in the 'pileup-script-drections' document.  The 'BL6_x_Cast_
 
 ### Exercise 4
 
-The ENCODE Portal is based on a REST API.  This means that the information that the web page uses to create webpages is the same information you would get as programmatically querying the ENCODE database.  Any URL that is generated when you click on the Portal can be programmatically queried to get the information back in a parsable format. An introduction to the ENCODE Portal and the REST API are described in these help documents:
+The ENCODE Portal is based on a REST API.  This means that the information that the web page uses to create webpages is the same information you would get as programmatically querying the ENCODE database.  Any URL that is generated when you click on the Portal can be programmatically queried to get the information back in a parsable format.  An introduction to the ENCODE Portal and the REST API are described in these help documents:
 
 * Getting Started: https://www.encodeproject.org/help/getting-started
 * The ENCODE REST API: https://www.encodeproject.org/help/rest-api/
 
-For this exercise, write a script that queries the ENCODE database gives a tab-delimited results file for the following query:
+For this exercise, write a script that queries the ENCODE database and gives a tab-delimited results file for the following query:
 
-"Give me the experiment accession, biosample, protein target, and number of replicates for all ChIP-seq assays released in August of 2012".
+> Give me the experiment accession, biosample, protein target, and number of replicates for all ChIP-seq assays released in August of 2012.
 
 Please submit your script and results file.
 
@@ -59,7 +59,7 @@ Some background:
 
 *  The left arm of chromosomes in Saccharomyces cerevisiae are sequences left of the centromere.
 
-* The genomic sequence (DNA) is annotated with different types of sequence features. A sequence feature is what role that particular stretch of DNA plays - a protein-coding gene, a tRNA, a centromere.  Sequence features can be on the Watson strand or the Crick strand of the genome.
+* The genomic sequence (DNA) is annotated with different types of sequence features.  A sequence feature is what role that particular stretch of DNA plays - a protein-coding gene, a tRNA, a centromere.  Sequence features can be on the Watson strand or the Crick strand of the genome.
 
 * An ORF is a sequence feature that is defined as an Open Reading Frame.  It is a gene that is translated into a protein.
 
