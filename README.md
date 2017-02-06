@@ -52,7 +52,7 @@ Find data errors.
 
 Some background:
 
-*  The left arm of chromosomes in Saccharomyces cerevisiae are sequences left of the centromere.
+*  The left arm of chromosomes in *Saccharomyces cerevisiae* are sequences left of the centromere.
 
 * The genomic sequence (DNA) is annotated with different types of sequence features.  A sequence feature is what role that particular stretch of DNA plays - a protein-coding gene, a tRNA, a centromere.  Sequence features can be on the Watson strand or the Crick strand of the genome.
 
