@@ -115,6 +115,10 @@ For this exercise, write a script that queries the ENCODE database and gives a t
 
 Please submit your script and results file.
 
+[Answer](http://nbviewer.jupyter.org/github/keenangraham/encode_data_wrangler_test/blob/master/answers/question_004/query_api.ipynb)
+
+[Results File (TSV)](https://github.com/keenangraham/encode_data_wrangler_test/blob/master/answers/question_004/encode_results.tsv)
+
 
 ## Exercise 5
 Find data errors.
