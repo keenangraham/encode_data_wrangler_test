@@ -33,6 +33,8 @@ Answer these questions in 1-2 pages:
 ## Exercise 3
 Read the directions below.  The 'BL6_x_Cast_RNA.pileup' file in the data folder contains the data to be analyzed.  Please provide your script and the results file.
 
+**Background:** 
+
 In pileup format, each line represents one nucleotide of the reference sequence, so for the mouse genome, a whole-genome pileup file will be over 2.7 billion lines.  This is too much data to deal with for a problem set, so we’ve given you a subset of chromosome 7 that has less than 5 thousand lines. The format of the pileup file is tab-delimited, with the following fields:
 
 | No. | Field |
