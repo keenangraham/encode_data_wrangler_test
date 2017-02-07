@@ -1,4 +1,4 @@
-# Questions for the ENCODE Data Wrangler Test.
+# Questions for the ENCODE Data Wrangler Test
 
 *Instructions:  These tests are to express the variety of tasks you would perform in this job.  Please choose 4 of the 5 assignments.*
 
