@@ -31,7 +31,7 @@ Answer these questions in 1-2 pages:
 
 
 ## Exercise 3
-Read the directions in the 'pileup-script-drections' document.  The 'BL6_x_Cast_RNA.pileup' contains the data to be analyzed.  Please provide your script and the results file.
+Read the directions below.  The 'BL6_x_Cast_RNA.pileup' file in the data folder contains the data to be analyzed.  Please provide your script and the results file.
 
 In pileup format, each line represents one nucleotide of the reference sequence, so for the mouse genome, a whole-genome pileup file will be over 2.7 billion lines.  This is too much data to deal with for a problem set, so we’ve given you a subset of chromosome 7 that has less than 5 thousand lines. The format of the pileup file is tab-delimited, with the following fields:
 
@@ -92,7 +92,7 @@ However, **ignore bases whose sequencing quality score is below 40**.  That is, 
 
 Consensus base calling from piles is partly an exercise in regular expressions.  Since the piles are riddled with mapping qualities that can contain 'ACGTacgt' following a carat (^), as well as indels, you must parse the pile carefully, taking care to **only count the characters indicating a mismatch, and not indicating mapping qualities or indels.**  That is, a mapping quality such as ‘^A’ that occurs in the pile should not be taken as an ‘A’ from sequencing, but rather seen as a mapping quality and ignored.  Similarly, indel characters such as ‘-5ATGCC’ or ‘+2AA’ should not contribute to coverage.
 
-Output:
+**Output:**
 
 The output file should have the following format:
 
