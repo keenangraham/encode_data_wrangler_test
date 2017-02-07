@@ -56,11 +56,11 @@ Below is a table showing the valid characters in a pile, as well regular express
 
 | Character(s) | Meaning | Suggested Regular Expression	|
 | ------------ | ------- | ---------------------------- |
-| . | Match to reference base on forward Strand | /\./ |
+| . | Match to reference base on forward strand | /\./ |
 | , | Match to reference base on reverse strand | /,/ |
 | ACGT | Mismatch on forward strand | /[ACGT]/ |
 | acgt | Mismatch on reverse strand | /[acgt]/ |
-| ^x | Start of a read, where x is the mapping quality as ASCII character - 33(see below); precedes the character that indicates the nucleotide at that position from the read | /\^./ |
+| ^x | Start of a read, where x is the mapping quality as ASCII character - 33 (see below); precedes the character that indicates the nucleotide at that position from the read | /\^./ |
 | $ | End of read; follows the character that indicates the nucleotide at that position from the read | /\$/ |	
 | +2AA | Insertion of two bases relative to the reference. ‘+’ indicates an insertion, ‘2’ means it is 2 bases in length, ‘AA’ means that two ‘A’ bases are inserted. | /\+\d+[ACGT]+/ |
 | -3ACG | Deletion of three bases relative to the reference. Same conventions as insertions, except a ‘-‘ signifying a deletion. | /\-\d+[ACGT]+/ |
