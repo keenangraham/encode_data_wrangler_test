@@ -106,7 +106,7 @@ The output file should have the following format:
 
 **[Results File (TSV)](https://github.com/keenangraham/encode_data_wrangler_test/blob/master/answers/question_003/consensus_bases.tsv)**
 
-<img src="https://raw.githubusercontent.com/keenangraham/encode_data_wrangler_test/blob/master/answers/question_003/pileup_consensus.png">
+<img src="https://raw.githubusercontent.com/keenangraham/encode_data_wrangler_test/master/answers/question_003/pileup_consensus.PNG">
 
 
 ## Exercise 4
