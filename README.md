@@ -106,6 +106,8 @@ The output file should have the following format:
 
 **[Results File (TSV)](https://github.com/keenangraham/encode_data_wrangler_test/blob/master/answers/question_003/consensus_bases.tsv)**
 
+<img src="https://raw.githubusercontent.com/keenangraham/encode_data_wrangler_test/blob/master/answers/question_003/pileup_consensus.png">
+
 
 ## Exercise 4
 The ENCODE Portal is based on a REST API.  This means that the information that the web page uses to create webpages is the same information you would get as programmatically querying the ENCODE database.  Any URL that is generated when you click on the Portal can be programmatically queried to get the information back in a parsable format.  An introduction to the ENCODE Portal and the REST API are described in these help documents:
