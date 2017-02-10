@@ -13,11 +13,15 @@
 11	Feature type	non-ORF feature	57
 12	Feature name	leading/lagging whitespace	42
 13	Feature name	leading/lagging whitespace	81
-14	Gene name	non-gene value	55
-15	Gene name	non-gene value	59
-16	Gene name	non-gene value	95
-17	Start coordinate	ORF that is too long	17
-18	Strand	non-W or C value	17
-19	Sequence version date	non-date format	31
-20	Description	non-sentence description	17
-21	All	right-shifted row	17
+14	Gene name	non-gene value	17
+15	Gene name	non-gene value	55
+16	Gene name	non-gene value	59
+17	Gene name	non-gene value	80
+18	Gene name	non-gene value	81
+19	Gene name	non-gene value	95
+20	Chromosome	non-chromosome 11 value	137
+21	Start coordinate	ORF that is too long	17
+22	Strand	non-W or C value	17
+23	Sequence version date	non-date format	31
+24	Description	non-sentence description	17
+25	All	right-shifted row	17
