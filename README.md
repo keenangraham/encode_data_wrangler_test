@@ -156,3 +156,8 @@ You should expect to find the following types of information in the columns:
 | **10** | Strand | Whether the ORF is on the Watson or Crick strand | mandatory |
 | **11** | Sequence version date | Date when the genomic sequence was last modified | optional |
 | **12** | Description | Short summary of the biological role of the ORF | optional |
+
+**[Answer](http://nbviewer.jupyter.org/github/keenangraham/encode_data_wrangler_test/blob/master/answers/question_005/find_errors.ipynb)**
+
+**[Results File (TSV)](https://github.com/keenangraham/encode_data_wrangler_test/blob/master/answers/question_005/error_results.tsv)**
+
