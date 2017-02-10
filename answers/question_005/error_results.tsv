@@ -9,59 +9,15 @@
 7	Row	nonconsecutive value	147
 8	Primary SGDID	null value	114
 9	Primary SGDID	duplicate value	97
-10	Feature type	non-ORF value	35
-11	Feature type	non-ORF value	57
+10	Feature type	non-ORF feature	35
+11	Feature type	non-ORF feature	57
 12	Feature name	leading/lagging whitespace	42
 13	Feature name	leading/lagging whitespace	81
 14	Gene name	non-gene value	55
 15	Gene name	non-gene value	59
 16	Gene name	non-gene value	95
-17	Start coordinate	higher value than the stop coordinate	7
-18	Start coordinate	higher value than the stop coordinate	8
-19	Start coordinate	higher value than the stop coordinate	15
-20	Start coordinate	higher value than the stop coordinate	18
-21	Start coordinate	higher value than the stop coordinate	30
-22	Start coordinate	higher value than the stop coordinate	31
-23	Start coordinate	higher value than the stop coordinate	33
-24	Start coordinate	higher value than the stop coordinate	34
-25	Start coordinate	higher value than the stop coordinate	35
-26	Start coordinate	higher value than the stop coordinate	36
-27	Start coordinate	higher value than the stop coordinate	37
-28	Start coordinate	higher value than the stop coordinate	40
-29	Start coordinate	higher value than the stop coordinate	43
-30	Start coordinate	higher value than the stop coordinate	49
-31	Start coordinate	higher value than the stop coordinate	50
-32	Start coordinate	higher value than the stop coordinate	51
-33	Start coordinate	higher value than the stop coordinate	53
-34	Start coordinate	higher value than the stop coordinate	54
-35	Start coordinate	higher value than the stop coordinate	55
-36	Start coordinate	higher value than the stop coordinate	56
-37	Start coordinate	higher value than the stop coordinate	59
-38	Start coordinate	higher value than the stop coordinate	60
-39	Start coordinate	higher value than the stop coordinate	75
-40	Start coordinate	higher value than the stop coordinate	78
-41	Start coordinate	higher value than the stop coordinate	79
-42	Start coordinate	higher value than the stop coordinate	82
-43	Start coordinate	higher value than the stop coordinate	84
-44	Start coordinate	higher value than the stop coordinate	85
-45	Start coordinate	higher value than the stop coordinate	86
-46	Start coordinate	higher value than the stop coordinate	88
-47	Start coordinate	higher value than the stop coordinate	89
-48	Start coordinate	higher value than the stop coordinate	90
-49	Start coordinate	higher value than the stop coordinate	91
-50	Start coordinate	higher value than the stop coordinate	92
-51	Start coordinate	higher value than the stop coordinate	93
-52	Start coordinate	higher value than the stop coordinate	94
-53	Start coordinate	higher value than the stop coordinate	113
-54	Start coordinate	higher value than the stop coordinate	114
-55	Start coordinate	higher value than the stop coordinate	115
-56	Start coordinate	higher value than the stop coordinate	136
-57	Start coordinate	higher value than the stop coordinate	138
-58	Start coordinate	higher value than the stop coordinate	139
-59	Start coordinate	higher value than the stop coordinate	140
-60	Start coordinate	higher value than the stop coordinate	147
-61	Start coordinate	higher value than the stop coordinate	149
-62	Strand	non-W or C value	17
-63	Sequence version date	non-date format	31
-64	Description	non-sentence description	17
-65	All	right-shifted row	17
+17	Start coordinate	ORF that is too long	17
+18	Strand	non-W or C value	17
+19	Sequence version date	non-date format	31
+20	Description	non-sentence description	17
+21	All	right-shifted row	17
