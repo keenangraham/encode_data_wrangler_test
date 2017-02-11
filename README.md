@@ -5,8 +5,6 @@
 ## Exercise 1
 Pick any scientific paper.  Write a short paragraph (8-10 sentences) in your own words describing the key experiments and conclusions from that publication.  Include a PDF of the paper you chose when you submit your exercises.
 
-https://github.com/keenangraham/encode_data_wrangler_test/tree/master/answers/question_001
-
 **[Answer](https://github.com/keenangraham/encode_data_wrangler_test/tree/master/answers/question_001)**
 
 **[PDF](https://github.com/keenangraham/encode_data_wrangler_test/blob/master/answers/question_001/eid_research_paper.pdf)**
