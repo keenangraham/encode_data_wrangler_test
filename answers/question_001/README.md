@@ -1,0 +1,3 @@
+[Ben-Ami R, Berman J, Novikov A, et al. Multidrug-Resistant Candida haemulonii and C. auris, Tel Aviv, Israel. Emerging Infectious Diseases. 2017;23(2):195-203. doi:10.3201/eid2302.161486.](https://wwwnc.cdc.gov/eid/article/23/2/16-1486_article)
+
+The authors report their experiments with two emerging infectious yeast strains, *Candida auris* and *Candida haemulonii*, isolated from hospitalized patients. While phenotypically difficult to differentiate in most clinical laboratories, the researchers find that *C. auris* demonstrates a more robust heat tolerance during incubation, a greater virulence in infected mice, and a higher activity in transporting antifungal molecules out of the cell.
