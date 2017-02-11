@@ -5,6 +5,12 @@
 ## Exercise 1
 Pick any scientific paper.  Write a short paragraph (8-10 sentences) in your own words describing the key experiments and conclusions from that publication.  Include a PDF of the paper you chose when you submit your exercises.
 
+https://github.com/keenangraham/encode_data_wrangler_test/tree/master/answers/question_001
+
+**[Answer](https://github.com/keenangraham/encode_data_wrangler_test/tree/master/answers/question_001)**
+
+**[PDF](https://github.com/keenangraham/encode_data_wrangler_test/blob/master/answers/question_001/eid_research_paper.pdf)**
+
 
 ## Exercise 2
 Read the following publication and its associated references.
@@ -28,6 +34,8 @@ Answer these questions in 1-2 pages:
 * What data would we make available?
 * How could we display the individual datasets and the Pugh results?
 * Where do you see issues and connections between these data and information already in SGD or other biological data?
+
+**Skipped (no answer)**
 
 
 ## Exercise 3
